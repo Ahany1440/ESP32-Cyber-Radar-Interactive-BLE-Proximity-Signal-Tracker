@@ -1,0 +1,2 @@
+# ESP32-Cyber-Radar-Interactive-BLE-Proximity-Signal-Tracker
+An advanced, dual-mode RF (Radio Frequency) tracking application built for the ESP32 architecture. This system intercepts Bluetooth Low Energy (BLE) advertisement beacons, aggregates device telemetry via an interactive terminal-based matrix dashboard over UART, and switches to dedicated standalone tracking using signal processing algorithms.
